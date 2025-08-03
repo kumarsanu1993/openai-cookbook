@@ -17,6 +17,12 @@ For other useful tools, guides and courses, check out these [related resources f
 
 ## License
 
-MIT License from innoimpex from kumar
-we are testing rebase
-second commit
+MIT License
+
+learning cherry-pick command
+<<<<<<< HEAD
+there are too many questions
+Students 
+=======
+there are too many questions 
+>>>>>>> 639e168 (xyz)
