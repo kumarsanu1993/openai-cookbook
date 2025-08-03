@@ -20,5 +20,9 @@ For other useful tools, guides and courses, check out these [related resources f
 MIT License
 
 learning cherry-pick command
+<<<<<<< HEAD
 there are too many questions
 Students 
+=======
+there are too many questions 
+>>>>>>> 639e168 (xyz)
