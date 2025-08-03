@@ -17,6 +17,12 @@ For other useful tools, guides and courses, check out these [related resources f
 
 ## License
 
+<<<<<<< HEAD
 MIT License from innoimpex from kumar
 we are testing rebase
 second commit
+=======
+MIT License
+
+learning cherry-pick command
+>>>>>>> 139d5e1 (xyz)
